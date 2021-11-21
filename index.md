@@ -1,4 +1,4 @@
-Sequence:
+Recipe:
 - snowflakes
 - post-its
 - maze
