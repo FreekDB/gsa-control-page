@@ -1,5 +1,5 @@
 Sequence:
-- pacman
-- zebras
-- mazes
-- sunset
+- snowflakes
+- post-its
+- maze
+- confetti
